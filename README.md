@@ -8,3 +8,5 @@ Class - self deep copy : http://jsfiddle.net/FKFZ4/16/
 simplest HTML5 template : http://jsfiddle.net/tonyguo/CeHBC/
 
 $.Deferred simplest example : http://jsfiddle.net/tonyguo/tEx2A/
+
+another $.Deferred example : http://jsfiddle.net/tonyguo/tEx2A/1/
