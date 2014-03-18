@@ -14,3 +14,5 @@ another $.Deferred example : http://jsfiddle.net/tonyguo/tEx2A/1/
 JS 不支持后发断言(只能用先发断言或者别的方案替代):  http://jsfiddle.net/tonyguo/ar7M4/4/
 
 正则表达式 \1\2\n 中的1,2，n表示捕获分组的分组号： http://jsfiddle.net/tonyguo/ar7M4/5/
+
+如何系统学习细节多而杂项也多的前端： http://www.zhihu.com/question/19834302
