@@ -19,7 +19,7 @@ JS 不支持后发断言(只能用先发断言或者别的方案替代):  http:/
 
 JS中的继承 ： http://www.cnblogs.com/qiantuwuliang/archive/2011/01/08/1930548.html
 
-组件化例子一： http://jsfiddle.net/tonyguo/VmYAr/3/
+组件化例子一： http://jsfiddle.net/tonyguo/VmYAr/6/
 
 组件化例子二： http://jsfiddle.net/tonyguo/VmYAr/5/
 
