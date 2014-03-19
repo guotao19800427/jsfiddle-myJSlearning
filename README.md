@@ -22,3 +22,5 @@ JS中的继承 ： http://www.cnblogs.com/qiantuwuliang/archive/2011/01/08/19305
 组件化例子一： http://jsfiddle.net/tonyguo/VmYAr/3/
 
 组件化例子二： http://jsfiddle.net/tonyguo/VmYAr/5/
+
+我自己理解的继承： http://jsfiddle.net/tonyguo/jHQ7P/2/
