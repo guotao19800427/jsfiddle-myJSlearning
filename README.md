@@ -32,3 +32,5 @@ JS中的继承 ： http://www.cnblogs.com/qiantuwuliang/archive/2011/01/08/19305
 
 
 深copy更深入的理解 ：http://jsfiddle.net/tonyguo/xA5zT/
+
+说不尽的原型链 ： http://www.cnblogs.com/vinqon/archive/2011/04/01/2031392.html
