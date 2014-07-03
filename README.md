@@ -34,3 +34,5 @@ JS中的继承 ： http://www.cnblogs.com/qiantuwuliang/archive/2011/01/08/19305
 深copy更深入的理解 ：http://jsfiddle.net/tonyguo/xA5zT/
 
 说不尽的原型链 ： http://www.cnblogs.com/vinqon/archive/2011/04/01/2031392.html
+
+大白话解释deffered，when，promise，then这些玩意儿： http://www.ruanyifeng.com/blog/2011/08/a_detailed_explanation_of_jquery_deferred_object.html
