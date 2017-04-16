@@ -1,10 +1,16 @@
 jsfiddle-myJSlearning
 =====================
-$.Deferred example : http://jsfiddle.net/tonyguo/tEx2A/1/
+$.Deferred example : 
+http://jsfiddle.net/tonyguo/tEx2A/1/
 
-JS 不支持后发断言(只能用先发断言或者别的方案替代):  http://jsfiddle.net/tonyguo/ar7M4/4/
+JS 不支持后发断言(只能用先发断言或者别的方案替代):  
+http://jsfiddle.net/tonyguo/ar7M4/4/
 
-正则表达式 \1\2\n 中的1,2，n表示捕获分组的分组号： http://jsfiddle.net/tonyguo/ar7M4/5/
+正则表达式 \1\2\n 中的1,2，n表示捕获分组的分组号： 
+http://jsfiddle.net/tonyguo/ar7M4/5/
+
+正则测试机
+http://refiddle.com/
 
 
 我对闭包的理解，边想边写，然后再去网上验证是否正确： 
